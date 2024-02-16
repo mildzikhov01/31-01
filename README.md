@@ -32,19 +32,35 @@
 
 ![Screnshot](1.png)
 
-![Screnshot](2.png)
+![Screnshot](22.png)
 
-![Screnshot](3.png)
+![Screnshot](33.png)
 
-![Screnshot](4.png)
+
 
 - Какие сетевые службы в ней разрешены?
 
+Разрешены следующие сетевые службы:
+
+1. Apache HTTP Server
+2. ProFTPD
+3. Samba
+4. MySQL
+5. Postfix
+6. OpenSSH
+
+Эти службы были намеренно настроены с уязвимостями для тестирования эксплойтов и различных методов атаки. 
 
 
 - Какие уязвимости были вами обнаружены? (список со ссылками: достаточно трёх уязвимостей)
-
+Были найдены такие уязвимости, как:
+	Apache HTTP Server 2.4.50 - Remote Code Execution (RCE)
+  VSFTPD
+  Postfix
   
+  ![Screnshot](44.png)
+  ![Screnshot](45.png)
+  ![Screnshot](46.png)
 ### Задание 2
 
 Проведите сканирование Metasploitable в режимах SYN, FIN, Xmas, UDP.
