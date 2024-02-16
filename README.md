@@ -30,7 +30,7 @@
 Логин по умолчанию: msfadmin
 Пароль по умолчанию: msfadmin
 
-![Screnshot](1.jpg)
+![Screnshot](1111.png)
 
 ![Screnshot](2.jpg)
 
