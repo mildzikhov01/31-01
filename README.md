@@ -30,7 +30,7 @@
 Логин по умолчанию: msfadmin
 Пароль по умолчанию: msfadmin
 
-![Screnshot](1.png)
+![Screnshot](1.jpg)
 
 ![Screnshot](22.png)
 
@@ -59,8 +59,8 @@
   Postfix
   
   ![Screnshot](44.png)
-  ![Screnshot](45.png)
-  ![Screnshot](46.png)
+  ![Screnshot](55.png)
+  ![Screnshot](66.png)
 ### Задание 2
 
 Проведите сканирование Metasploitable в режимах SYN, FIN, Xmas, UDP.
